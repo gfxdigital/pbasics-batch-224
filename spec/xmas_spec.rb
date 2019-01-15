@@ -1,3 +1,4 @@
+require 'date'
 require 'xmas'
 
 describe '#days_until_xmas' do
